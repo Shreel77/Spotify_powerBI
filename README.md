@@ -16,7 +16,7 @@ To uncover listening patterns on Spotify by visualizing and analyzing data acros
 - Excel/CSV (for data source)
 
 
-## 🛠 Features & Visuals
+##  Features & Visuals
 
 -  **Time Trends:** Albums, Artists, and Tracks played over months and years  
 -  **Listening Habits:** Weekday vs Weekend activity  
@@ -27,12 +27,11 @@ To uncover listening patterns on Spotify by visualizing and analyzing data acros
 
 ---
 
-## 📷 Dashboard Screenshots
+##  Dashboard Screenshots
 
 | Dashboard Page | Preview |
 |----------------|---------|
-| Album & Artist Trends | ![Albums]![Uploading image.png…]()
- |
+| Album & Artist Trends | ![Albums]![Uploading image.png…]() |
 | Listening Heatmap | ![Heatmap](screenshots/heatmap.png) |
 | Quadrant Analysis | ![Quadrant](screenshots/quadrant_analysis.png) |
 
