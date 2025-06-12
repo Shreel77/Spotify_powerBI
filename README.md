@@ -32,7 +32,7 @@ To uncover listening patterns on Spotify by visualizing and analyzing data acros
 | Dashboard Page | Preview |
 |----------------|---------|
 | Album & Artist Trends | ![Albums]![Uploading image.png…]() |
-| Listening Heatmap | ![Heatmap](screenshots/heatmap.png) |
+| Listening Heatmap | ![Heatmap](Screenshot 2025-06-12 164300.png) |
 | Quadrant Analysis | ![Quadrant](screenshots/quadrant_analysis.png) |
 
 
