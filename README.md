@@ -27,16 +27,6 @@ To uncover listening patterns on Spotify by visualizing and analyzing data acros
 
 ---
 
-##  Dashboard Screenshots
-
-| Dashboard Page | Preview |
-|----------------|---------|
-| Album & Artist Trends | ![Albums]![Uploading image.png…]() |
-| Listening Heatmap | ![Heatmap](Screenshot 2025-06-12 164300.png) |
-| Quadrant Analysis | ![Quadrant](screenshots/quadrant_analysis.png) |
-
-
-
 ##  Live Demo (Optional)
 *Coming Soon – Will be hosted via Power BI publish-to-web*
 
